@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A00FF,100:FF00C8&height=230&section=header&text=Md%20Anwaarullah%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20Analytics%20%7C%20Business%20Intelligence&descSize=18&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A00FF,100:FF00C8&height=230&section=header&text=Md%20Anwaarullah%20Khan&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20Analytics%20%7C%20Business%20Intelligence&descSize=18&descAlignY=55&descAlign=50" />
 </p>
 
 <div align="center">
@@ -79,7 +79,7 @@ class MdAnwaarullahKhan:
 
 ---
 
-# 💻 Refined Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
