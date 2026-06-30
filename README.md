@@ -1,183 +1,149 @@
+```md
+# 💫 Hi 👋, I'm Md Anwaarullah Khan
+
+**A passionate Data Science Fresher || Data Analyst || AI & Business Intelligence Enthusiast from India**
+
+Email Me 👉 ✉️ **anwaar78625@gmail.com** for collaboration, projects, internship opportunities, job roles, or anything related to data and analytics. 😊
+
+- 🔭 **I’m currently working on:** Data Analytics, Supply Chain Analytics, and AI-powered dashboard projects  
+- 🌱 **I’m currently learning:** Machine Learning, Generative AI, Business Intelligence, Power BI, and Advanced Data Analytics  
+- 👯 **I’m looking to collaborate on:** Data Science, Data Analytics, Machine Learning, and Dashboard Development projects  
+- 🤔 **I’m looking for help with:** Real-world data science projects, internships, and entry-level job opportunities  
+- 💬 **Ask me about:** Python, Data Analysis, EDA, Streamlit Dashboards, Excel, SQL, and Business Insights  
+- 📫 **How to reach me:** anwaar78625@gmail.com  
+- ⚡ **Fun fact:** I love transforming raw data into meaningful business decisions  
+
+---
+
+## 🚀 About Me
+
+I am a **Data Science fresher** with a strong interest in **data analytics, business intelligence, machine learning, and AI-powered solutions**.
+
+I enjoy working on real-world business problems where data can be used to identify patterns, improve decision-making, and create interactive dashboards.
+
+My goal is to build a strong career in **Data Analytics, Data Science, Business Analytics, and AI/ML** by continuously learning, building projects, and applying practical problem-solving skills.
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Anwaarullah%20Khan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-anwaarullah-khan-28ba8a22b)
+[![GitHub](https://img.shields.io/badge/GitHub-anwaarullah786-black?logo=github&logoColor=white)](https://github.com/anwaarullah786)
+[![Email](https://img.shields.io/badge/Email-anwaar78625%40gmail.com-red?logo=gmail&logoColor=white)](mailto:anwaar78625@gmail.com)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=anwaarullah786&icon=1&color=4)](https://visitcount.itsvg.in)
+
+---
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
-# 👋 Hi, I'm Md Anwaarullah Khan  
-### 🚀 Data Science Fresher | AI & Analytics Enthusiast | Business Intelligence Learner
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Transforming+Data+Into+Business+Decisions;Building+AI-Powered+Analytics+Dashboards;Exploring+Machine+Learning+%7C+GenAI+%7C+BI;Open+to+Data+Analyst+%26+Data+Science+Roles" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
-## 🧠 About Me
-I am a **Data Science fresher** passionate about solving real business problems using **Python, data analytics, machine learning, business intelligence, and AI-powered dashboards**.
-I enjoy converting raw data into meaningful insights, interactive dashboards, and practical business recommendations.
-- 🔍 Looking for **Data Analyst, Business Analyst, Data Science, and AI/ML fresher roles**
-- 📊 Skilled in **EDA, dashboards, KPI analysis, customer insights, and predictive analytics**
-- 🤖 Exploring **Generative AI, machine learning, and business automation**
-- 🌱 Continuously improving through projects, internships, and certifications
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=anwaarullah786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
-## 🛠️ Tech Stack
-<div align="center">
-### Languages & Data
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7FF)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F7FF)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F7FF)
-### Visualization & Dashboards
-![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=00F7FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00F7FF)
-### AI & Machine Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F7FF)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge)
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00F7FF)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00F7FF)
-</div>
+
+# 💻 Tech Stack
+
+### Programming & Data Analysis
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6A00FF?style=for-the-badge&logo=openai&logoColor=white)
+
+### Visualization & Dashboard Tools
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230D1117.svg?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%230D1117.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%230076D6.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Tools & Platforms
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
 ---
-## 🚀 Featured Projects
-### 📦 Factory-to-Customer Shipping Route Efficiency Analysis  
+
+# 🚀 Featured Projects
+
+## 📦 Factory-to-Customer Shipping Route Efficiency Analysis  
 **Nassau Candy Distributor | Supply Chain Analytics | Streamlit Dashboard**
-A business analytics project focused on identifying shipping delays, route inefficiencies, regional bottlenecks, and lead-time patterns.
-**Key Highlights**
-- Route efficiency analysis
-- State and region-wise shipping performance
-- Ship mode comparison
-- Interactive Streamlit dashboard
-- Business recommendations for logistics improvement
+
+A data analytics project focused on analyzing shipping delays, route performance, lead-time patterns, regional bottlenecks, and logistics improvement opportunities.
+
 🔗 [View Repository](https://github.com/anwaarullah786/Factory-to-Customer-Shipping-Route-Efficiency-Analysis-for-Nassau-Candy-Distributor)
+
 ---
-### 📊 Customer, Product & Profitability Performance Analysis  
-**Supply Chain Operations | Profitability Analytics | KPI Dashboard**
-A data analytics project designed to evaluate customer value, product profitability, discount impact, and regional performance.
-**Key Highlights**
-- Profitability KPI analysis
-- Customer and product segmentation
-- Discount impact evaluation
-- Dashboard-based business insights
-- Strategic recommendations for margin improvement
+
+## 📊 Customer, Product, and Profitability Performance Analysis  
+**Supply Chain Operations | Profitability Analytics | Business Dashboard**
+
+A business analytics project designed to evaluate revenue, profitability, customer value, product performance, discount impact, and regional market trends.
+
 🔗 [View Repository](https://github.com/anwaarullah786/Customer-Product-and-Profitability-Performance-Analysis-in-Supply-Chain-Operations)
+
 ---
-### 🏠 House Sales Price Analysis  
-**Python | EDA | Regression | Data Wrangling**
-Analyzed housing data using Python to understand pricing trends, clean raw data, build visualizations, and evaluate model performance.
+
+## 🏠 House Sales Price Analysis  
+**Python | EDA | Data Wrangling | Regression**
+
+A Python-based project focused on analyzing housing data, identifying pricing patterns, cleaning data, and understanding important factors affecting house prices.
+
 🔗 [View Repository](https://github.com/anwaarullah786/Final-Project-House-Sales-in-King-County-USA)
+
 ---
-## 📈 GitHub Analytics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anwaarullah786&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwaarullah786&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anwaarullah786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=anwaarullah786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anwaarullah786&theme=dark&hide_border=false)
+
 ---
-## 🧩 Current Focus
-```python
-current_focus = {
-    "career_goal": "Data Analyst / Data Science Fresher Role",
-    "learning": ["Machine Learning", "Generative AI", "Business Intelligence"],
-    "building": ["Analytics Dashboards", "EDA Projects", "AI-powered Solutions"],
-    "mindset": "Learn. Build. Improve. Repeat."
-}
 
-⸻
+## 🏆 Certifications & Learning
 
-🏆 Certifications & Learning
+- IBM Data Science Professional Certificate  
+- Machine Learning with Python  
+- Applied Data Science Capstone  
+- Generative AI: Elevate Your Data Science Career  
+- Tata Group Data Analytics Job Simulation on Forage  
+- Deloitte Australia Data Analytics Job Simulation on Forage  
 
-* IBM Data Science Professional Certificate
-* Machine Learning with Python
-* Applied Data Science Capstone
-* Generative AI: Elevate Your Data Science Career
-* Data Analytics Virtual Internship – Deloitte
-* GenAI Powered Data Analytics Micro-Internship – Tata Group Companies
+---
 
-⸻
+### ✍️ Random Dev Quote
 
-🌐 Connect With Me
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-</div>
+---
 
-⸻
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=anwaarullah786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 <div align="center">
 
-⚡ “Data is not just numbers — it is the future of decision-making.”
+### ⚡ “Data is not just numbers — it is the future of decision-making.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
 </div>
 ```
-:::
-
-Step 3: Save it
-
-1. Scroll down.
-2. In Commit changes, write:
-
-Create futuristic GitHub profile README
-
-3. Click Commit changes.
-
-Now go to:
-
-https://github.com/anwaarullah786
-
-You should see the futuristic profile on the main GitHub page.
-
-Step 4: Pin your best repositories
-
-On your GitHub profile:
-
-1. Go to your profile page.
-2. Find the Pinned section.
-3. Click Customize your pins.
-4. Select your best repositories.
-5. Save.
-
-Pin these in this order:
-
-1. Factory-to-Customer-Shipping-Route-Efficiency-Analysis-for-Nassau-Candy-Distributor
-2. Customer-Product-and-Profitability-Performance-Analysis-in-Supply-Chain-Operations
-3. Final-Project-House-Sales-in-King-County-USA
-4. Analyzing-the-Impact-of-Recession-on-Automobile-Sales
-5. Pythonproject
-6. assignmentjupyternotebook
-
-GitHub lets you showcase selected repositories in the pinned section so visitors see your strongest work first. (The GitHub Blog)
-
-Step 5: Improve repository names later
-
-Your two main project repos are good, but some older ones look like student assignments. Later, rename them into cleaner portfolio names.
-
-Example:
-
-assignmentjupyternotebook
-
-can become:
-
-IBM-Data-Science-Assignment-Notebook
-
-And:
-
-Pythonproject
-
-can become:
-
-IBM-Python-Data-Analysis-Project
-
-For now, first create the profile README. That alone will make your GitHub look much more professional and futuristic.
-🏆 Certifications & Learning
-
-* IBM Data Science Professional Certificate
-* Machine Learning with Python
-* Applied Data Science Capstone
-* Generative AI: Elevate Your Data Science Career
-* Data Analytics Virtual Internship – Deloitte
-* GenAI Powered Data Analytics Micro-Internship – Tata Group Companies
-* 🌐 Connect With Me
-* <div align="center">
-</div>
-<div align="center">
-⚡ “Data is not just numbers — it is the future of decision-making.”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
-</div>
-```
-:::
-
