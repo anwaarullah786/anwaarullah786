@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A00FF,100:FF00C8&height=230&section=header&text=Md%20Anwaarullah%20Khan&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20Analytics%20%7C%20Business%20Intelligence&descSize=18&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0249,50:8A2BE2,100:DA70D6&height=230&section=header&text=Md%20Anwaarullah%20Khan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20Analytics%20%7C%20Business%20Intelligence&descSize=18&descAlignY=55&descAlign=50" />
 </p>
 
 <div align="center">
@@ -8,18 +8,18 @@
 
 ### 🚀 Data Science Fresher | Data Analyst | AI & Business Intelligence Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Transforming+Raw+Data+Into+Business+Insights;Building+AI-Powered+Analytics+Dashboards;Exploring+Machine+Learning+%7C+GenAI+%7C+BI;Open+to+Data+Analyst+%26+Data+Science+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=2800&pause=700&color=8A2BE2&center=true&vCenter=true&width=950&lines=Transforming+Raw+Data+Into+Business+Insights;Building+AI-Powered+Analytics+Dashboards;Exploring+Machine+Learning+%7C+GenAI+%7C+BI;Open+to+Data+Analyst+%26+Data+Science+Roles" />
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Anwaarullah%20Khan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-anwaarullah-khan-28ba8a22b)
-[![GitHub](https://img.shields.io/badge/GitHub-anwaarullah786-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anwaarullah786)
-[![Email](https://img.shields.io/badge/Email-anwaar78625%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anwaar78625@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Anwaarullah%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-anwaarullah-khan-28ba8a22b)
+[![GitHub](https://img.shields.io/badge/GitHub-anwaarullah786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwaarullah786)
+[![Email](https://img.shields.io/badge/Email-anwaar78625%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwaar78625@gmail.com)
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=anwaarullah786&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/anwaarullah786?label=Followers&style=for-the-badge&color=6A00FF" />
+<img src="https://komarev.com/ghpvc/?username=anwaarullah786&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/anwaarullah786?label=Followers&style=for-the-badge&color=8A2BE2" />
 
 </div>
 
@@ -85,38 +85,38 @@ class MdAnwaarullahKhan:
 
 ## 🧩 Core Analytics
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00F7FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=00F7FF)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-0D1117?style=for-the-badge\&logo=microsoftexcel\&logoColor=00F7FF)
-![Statistics](https://img.shields.io/badge/Statistics-0D1117?style=for-the-badge\&logo=googleanalytics\&logoColor=00F7FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8A2BE2)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=8A2BE2)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=8A2BE2)
+![Statistics](https://img.shields.io/badge/Statistics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=8A2BE2)
 
 ## 📊 Python Data Ecosystem
 
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge\&logo=pandas\&logoColor=00F7FF)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge\&logo=numpy\&logoColor=00F7FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge\&logo=python\&logoColor=00F7FF)
-![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge\&logo=plotly\&logoColor=00F7FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=8A2BE2)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=8A2BE2)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=8A2BE2)
+![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=8A2BE2)
 
 ## 🤖 Machine Learning & AI
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikitlearn\&logoColor=00F7FF)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge\&logo=python\&logoColor=00F7FF)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge\&logo=openai\&logoColor=00F7FF)
-![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-0D1117?style=for-the-badge\&logo=googleanalytics\&logoColor=00F7FF)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=8A2BE2)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=python&logoColor=8A2BE2)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=8A2BE2)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=8A2BE2)
 
 ## 📈 BI, Visualization & Dashboards
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge\&logo=streamlit\&logoColor=00F7FF)
-![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge\&logo=tableau\&logoColor=00F7FF)
-![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge\&logo=powerbi\&logoColor=00F7FF)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0D1117?style=for-the-badge\&logo=databricks\&logoColor=00F7FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=8A2BE2)
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=8A2BE2)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=8A2BE2)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0D1117?style=for-the-badge&logo=databricks&logoColor=8A2BE2)
 
 ## 🛠️ Tools & Platforms
 
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge\&logo=jupyter\&logoColor=00F7FF)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0D1117?style=for-the-badge\&logo=googlecolab\&logoColor=00F7FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00F7FF)
-![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge\&logo=markdown\&logoColor=00F7FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=8A2BE2)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=8A2BE2)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2)
+![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=8A2BE2)
 
 </div>
 
@@ -147,7 +147,7 @@ A complete analytics project focused on identifying shipping delays, route ineff
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/anwaarullah786/Factory-to-Customer-Shipping-Route-Efficiency-Analysis-for-Nassau-Candy-Distributor)
+[![View Repository](https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwaarullah786/Factory-to-Customer-Shipping-Route-Efficiency-Analysis-for-Nassau-Candy-Distributor)
 
 </td>
 <td width="50%">
@@ -171,7 +171,7 @@ A business analytics project designed to evaluate revenue, profitability, custom
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/anwaarullah786/Customer-Product-and-Profitability-Performance-Analysis-in-Supply-Chain-Operations)
+[![View Repository](https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwaarullah786/Customer-Product-and-Profitability-Performance-Analysis-in-Supply-Chain-Operations)
 
 </td>
 </tr>
@@ -198,7 +198,7 @@ A Python-based project focused on analyzing housing data, cleaning raw data, und
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/anwaarullah786/Final-Project-House-Sales-in-King-County-USA)
+[![View Repository](https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwaarullah786/Final-Project-House-Sales-in-King-County-USA)
 
 </td>
 <td width="50%">
@@ -222,7 +222,7 @@ A visualization-focused project analyzing how recession periods affect automobil
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00F7FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/anwaarullah786/Analyzing-the-Impact-of-Recession-on-Automobile-Sales)
+[![View Repository](https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwaarullah786/Analyzing-the-Impact-of-Recession-on-Automobile-Sales)
 
 </td>
 </tr>
@@ -249,11 +249,61 @@ A visualization-focused project analyzing how recession periods affect automobil
 
 ---
 
-# 🏆 GitHub Trophies
+# 🛸 Futuristic GitHub Command Center
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=anwaarullah786&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=4" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0249,50:8A2BE2,100:DA70D6&height=4&section=header" />
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚡ Code Energy
+
+<img src="https://img.shields.io/badge/Status-Building%20Daily-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
+**Learning. Building. Improving.**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Mission Mode
+
+<img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20AI-DA70D6?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+**Analytics → Insights → Impact**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 AI Mindset
+
+<img src="https://img.shields.io/badge/Mindset-Innovate%20%26%20Analyze-6A00FF?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br><br>
+
+**Future-ready data solutions**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anwaarullah786&bg_color=0D1117&color=DA70D6&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DA70D6,50:8A2BE2,100:2E0249&height=4&section=footer" />
 
 </div>
 
@@ -306,9 +356,9 @@ A visualization-focused project analyzing how recession periods affect automobil
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-anwaarullah-khan-28ba8a22b)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anwaarullah786)
-[![Email](https://img.shields.io/badge/Email-anwaar78625%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anwaar78625@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-anwaarullah-khan-28ba8a22b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwaarullah786)
+[![Email](https://img.shields.io/badge/Email-anwaar78625%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwaar78625@gmail.com)
 
 </div>
 
@@ -328,6 +378,6 @@ A visualization-focused project analyzing how recession periods affect automobil
 
 ## ⚡ “Data is not just numbers — it is the future of decision-making.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:6A00FF,100:00F7FF&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,50:8A2BE2,100:2E0249&height=140&section=footer" />
 
 </div>
